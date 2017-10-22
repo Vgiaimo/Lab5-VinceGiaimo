@@ -16,4 +16,10 @@ In a private messaging app in my opinion you should have base dark colors and ma
 
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
-Your Palette URL: Your Rationale:
+Your Palette URL: Your Rationale: http://paletton.com/#uid=15z1i0k++YU00qz++YU8V1h40SV
+
+Ruby on Rails usually consists of using the colors Red white and black as there logo colors. In this case I used a monochromatic color palette using Red as the base and grey, white, black text, I feel that this displays to the end user that this color relates to the software product of ruby on rails when they are looking at the advertisement. 
+
+
+
+
