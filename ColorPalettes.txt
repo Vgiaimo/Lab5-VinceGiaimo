@@ -1,14 +1,18 @@
 
-1. An adjacent color palette for introducing a new console gaming platformYour Palette URL: Rationale:http://paletton.com/#uid=52I0N1kY7NJ3csbvlPE00mDbhcikL++aKf34+38tceuQ8vMuk0yg31q6P3CqGid1Gf7bHI chose these colors because I really like how they flow together the green, blue, gray gives the user a nice vibrant chill experience with the gaming console. Also, the colors are just hurting your eyes from being too bright, these colors go easy on the eyes but does the job of grabbing the end users attention.
+1. An adjacent color palette for introducing a new console gaming platformYour Palette URL: Your Rationale:http://paletton.com/#uid=52I0N1kY7NJ3csbvlPE00mDbhcikL++aKf34+38tceuQ8vMuk0yg31q6P3CqGid1Gf7bHI chose these colors because I really like how they flow together the green, blue, gray gives the user a nice vibrant chill experience with the gaming console. Also, the colors are just hurting your eyes from being too bright, these colors go easy on the eyes but does the job of grabbing the end users attention.
 
 
 2. A triadic color palette for announcing springtime tours at the Chicago Botanical Gardens
-Your Palette URL: Your Rationale:
+Your Palette URL: Your Rationale:http://paletton.com/#uid=32P051keM++1hyJeM++sXZ33o++kgH++0kZEgH++0kZE0kZEkhpz7lpeKhpz7lpeKlpeK
 
+Spring is the type of season that is represented by bright colors, as the flowers start to 
+bloom there is all types of colors surrounding us especially at Botanical gardens. Thus, I have chosen a palette with light green, light red, and a dark pink color for a spring time tour at Botanical gardens.
 
 
 3. A triadic color palette for styling the login page for a private messaging app
 Your Palette URL: Your Rationale:
+
+
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 Your Palette URL: Your Rationale:
