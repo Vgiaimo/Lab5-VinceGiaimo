@@ -10,8 +10,9 @@ bloom there is all types of colors surrounding us especially at Botanical garden
 
 
 3. A triadic color palette for styling the login page for a private messaging app
-Your Palette URL: Your Rationale:
+Your Palette URL: Your Rationale: http://paletton.com/#uid=3471i1ktt++65kVtt++8mJ57wszk2zgJ00wb2zgJ872L2j9Tk00UV00++00UV0InD00++
 
+In a private messaging app in my opinion you should have base dark colors and maybe even a few vibrant colors thrown in to the webpage. In this case I tried to go with some what of the Facebook/ twitter look, but I tried to give it more of a stealthy type of feeling to give the user a sense of feeling that they are being secretive and the webpage may give them that comfort of being protected.
 
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
